@@ -4,7 +4,7 @@ A ***[free word counter online](https://meetanshi.com/word-counter)*** is a usef
 
 Meetanshi’s  free word counter online is simple to use. Simply copy and paste your text into the text box provided and click the "Count Words" button. The tool will then provide you with an accurate word count in just seconds. In addition to counting the total number of words, it also counts the number of characters, sentences, and paragraphs.
 
-## Benefits of Using Meetanshi’s Free Word Counter Online :-
+## Benefit's of Using Meetanshi’s Free Word Counter Online :-
 
 * Allows you to quickly and easily count the number of words.
 *  Helps you stay within the word count limit set by your instructor or editor.
